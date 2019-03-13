@@ -4,6 +4,16 @@ git status: Se usa para visualizar el area
 
 git add (nombre del archivo):
 
-git comit: 
+git commit: 
 
 git who you are: 
+
+git diff:
+
+git ignore
+fjdsiljfhsviojkxfjkasojfiieoajfikdkvnxkznvdsg
+s<dgbdosgndiosgjijgisdgh
+shgidpshgilfnvkdsnvfaoFUidslhvjWESGI
+NVDS
+DGNVSjod<ngvoisdjfS
+<
