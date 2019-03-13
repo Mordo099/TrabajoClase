@@ -1,0 +1,9 @@
+git init: La carpeta se está preparando para el trabajo
+
+git status: Se usa para visualizar el area
+
+git add (nombre del archivo):
+
+git comit: 
+
+git who you are: 
